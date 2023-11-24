@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['08168762290', 'Daniel Bot', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'Daniel Bot'
 global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
 global.author = 'ABHISHEK SURESH' 
@@ -64,7 +64,7 @@ global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
+global.dmoji = '😂'
 global.done = '✅'
 global.error = '❌' 
 global.mlc = '📃'
